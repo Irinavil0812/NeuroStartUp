@@ -8,4 +8,4 @@ NeuroStartUp — динамически развивающийся старта�
 
 * Низкая цена
 
-![logo]("D:\Desktop\NeuroStartUp\logo.png")
+![logo](logo.png)
